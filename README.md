@@ -1,0 +1,2 @@
+# tastygems
+first ruby blog
